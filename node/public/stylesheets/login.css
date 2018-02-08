@@ -1,0 +1,20 @@
+body{
+	background: url(../images/bg2.gif) no-repeat center/cover;
+}
+#register{
+	position: static;
+	margin: 150px auto;
+}
+.txt{
+	background-color:rgba(255,255,255,.5);
+}
+.login{
+	background: #122B40;
+}
+
+.register{
+	color: #cecece;
+}
+.form-group1{
+	text-align: right;
+}

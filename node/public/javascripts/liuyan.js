@@ -1,0 +1,39 @@
+//失去焦点时判断
+var a=b=0;
+$(".tit").focusout(function(){
+	if($(this).val()!=""){
+		a=1;
+		console.log(a);
+	}else{
+		alert("主题不能为空,请输入")
+		
+	}
+})
+$(".con").focusout(function(){
+	if($(this).val()==""){
+		alert("内容不能为空，请填写你想说的话")
+	}else{
+		b=1;
+	}
+})
+
+//点击留言按钮，发送留言内容
+$(".liuyan").click(function(){
+	console.log($(".con").val())
+	/*if(a==1&b==1""){
+		console.log("aaa")
+		$.ajax({
+			type:"post",
+			url:"/users/liuyan",
+			data:{tit:$(".tit").val(),con:$(".con").val(),user:$(".person").html()},
+			success:function(data){
+				if(data==1){
+					alert("留言成功");
+					location.href="/liuyanList"
+				}else{
+					alert("留言失败，请重试")
+				}
+			}
+		})
+	}*/
+})

@@ -1,0 +1,206 @@
+{
+	"resultcode": "200",
+	"reason": "SUCCESSED!",
+	"result": [{
+		"1": {
+			"code": "550017",
+			"name": "信诚添金分级债券",
+			"netincome": "--",
+			"assincome": "0.2151",
+			"netassrate": "--",
+			"netgrowrate": "-0.8900",
+			"tonetgrora": "29.3700",
+			"time": "20160630"
+		},
+		"2": {
+			"code": "000091",
+			"name": "信诚新双盈分级债券",
+			"netincome": "--",
+			"assincome": "0.1896",
+			"netassrate": "--",
+			"netgrowrate": "-0.4800",
+			"tonetgrora": "28.1700",
+			"time": "20160630"
+		},
+		"3": {
+			"code": "163909",
+			"name": "中海惠丰纯债分级",
+			"netincome": "--",
+			"assincome": "0.2095",
+			"netassrate": "--",
+			"netgrowrate": "-0.0200",
+			"tonetgrora": "27.1700",
+			"time": "20160630"
+		},
+		"4": {
+			"code": "163825",
+			"name": "中银互利分级债券",
+			"netincome": "--",
+			"assincome": "0.2754",
+			"netassrate": "--",
+			"netgrowrate": "1.4900",
+			"tonetgrora": "36.4900",
+			"time": "20160630"
+		},
+		"5": {
+			"code": "000291",
+			"name": "鹏华丰信分级债券",
+			"netincome": "--",
+			"assincome": "0.2515",
+			"netassrate": "--",
+			"netgrowrate": "2.2800",
+			"tonetgrora": "40.2100",
+			"time": "20160630"
+		},
+		"6": {
+			"code": "000316",
+			"name": "中海惠利纯债",
+			"netincome": "--",
+			"assincome": "0.1960",
+			"netassrate": "--",
+			"netgrowrate": "0.0000",
+			"tonetgrora": "25.7700",
+			"time": "20160630"
+		},
+		"7": {
+			"code": "166021",
+			"name": "中欧纯债添利分级债券",
+			"netincome": "--",
+			"assincome": "0.3849",
+			"netassrate": "--",
+			"netgrowrate": "2.0900",
+			"tonetgrora": "20.0900",
+			"time": "20160630"
+		},
+		"8": {
+			"code": "000428",
+			"name": "易方达聚盈分级",
+			"netincome": "--",
+			"assincome": "0.1804",
+			"netassrate": "--",
+			"netgrowrate": "1.7300",
+			"tonetgrora": "25.4500",
+			"time": "20160630"
+		},
+		"9": {
+			"code": "164509",
+			"name": "国富恒利分级债券",
+			"netincome": "--",
+			"assincome": "0.3598",
+			"netassrate": "--",
+			"netgrowrate": "2.2600",
+			"tonetgrora": "38.5200",
+			"time": "20160630"
+		},
+		"10": {
+			"code": "000500",
+			"name": "华富恒富分级债券",
+			"netincome": "--",
+			"assincome": "0.1730",
+			"netassrate": "--",
+			"netgrowrate": "1.8900",
+			"tonetgrora": "14.4300",
+			"time": "20160630"
+		},
+		"11": {
+			"code": "519059",
+			"name": "海富通双福分级债券",
+			"netincome": "--",
+			"assincome": "0.1785",
+			"netassrate": "--",
+			"netgrowrate": "-0.5800",
+			"tonetgrora": "40.2300",
+			"time": "20160630"
+		},
+		"12": {
+			"code": "000622",
+			"name": "华富恒财分级债券",
+			"netincome": "--",
+			"assincome": "0.1649",
+			"netassrate": "--",
+			"netgrowrate": "2.3900",
+			"tonetgrora": "17.5800",
+			"time": "20160630"
+		},
+		"13": {
+			"code": "161827",
+			"name": "银华永益分级债券",
+			"netincome": "--",
+			"assincome": "0.3163",
+			"netassrate": "--",
+			"netgrowrate": "3.8500",
+			"tonetgrora": "45.5500",
+			"time": "20160630"
+		},
+		"14": {
+			"code": "000631",
+			"name": "中银聚利分级债券",
+			"netincome": "--",
+			"assincome": "0.1955",
+			"netassrate": "--",
+			"netgrowrate": "1.6600",
+			"tonetgrora": "20.1000",
+			"time": "20160630"
+		},
+		"15": {
+			"code": "000674",
+			"name": "中海惠祥分级债券",
+			"netincome": "--",
+			"assincome": "0.1105",
+			"netassrate": "--",
+			"netgrowrate": "0.7700",
+			"tonetgrora": "8.2600",
+			"time": "20160630"
+		},
+		"16": {
+			"code": "000768",
+			"name": "长城久盈纯债分级债券",
+			"netincome": "--",
+			"assincome": "0.2887",
+			"netassrate": "--",
+			"netgrowrate": "4.1600",
+			"tonetgrora": "32.5000",
+			"time": "20160630"
+		},
+		"17": {
+			"code": "000813",
+			"name": "鑫元合享分级债券",
+			"netincome": "--",
+			"assincome": "0.0516",
+			"netassrate": "--",
+			"netgrowrate": "1.0600",
+			"tonetgrora": "6.2300",
+			"time": "20160630"
+		},
+		"18": {
+			"code": "000774",
+			"name": "天弘瑞利分级债券",
+			"netincome": "--",
+			"assincome": "0.1307",
+			"netassrate": "--",
+			"netgrowrate": "6.5700",
+			"tonetgrora": "14.0700",
+			"time": "20160630"
+		},
+		"19": {
+			"code": "184722",
+			"name": "长城久嘉封闭",
+			"netincome": "--",
+			"assincome": "-0.0155",
+			"netassrate": "--",
+			"netgrowrate": "-11.6300",
+			"tonetgrora": "474.8900",
+			"time": "20160630"
+		},
+		"20": {
+			"code": "500058",
+			"name": "银河银丰封闭",
+			"netincome": "--",
+			"assincome": "0.0226",
+			"netassrate": "--",
+			"netgrowrate": "-20.2700",
+			"tonetgrora": "423.3400",
+			"time": "20160630"
+		}
+	}]
+}

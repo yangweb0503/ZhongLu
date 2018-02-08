@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>首页</title>
+		<link rel="stylesheet" type="text/css" href="/stylesheets/bootstrap.min.css" />
+		<link rel='stylesheet' href='/stylesheets/style.css' />
+	</head>
+	<body>
+		<div class="bg">
+			<h1 id="title">众禄基金管理平台</h1>
+			<% if(user){%>
+				<h2 class='username'>欢迎<%- user%>回来!</h2>
+				<button type="button" class="btn btn-primary col-sm-3 login3" onclick="location.href='/reload'">注销</button>
+			<button type="button" class="btn btn-info col-sm-3 register" onclick="location.href='/home'" >进入后台</button>
+			<%}else{%>
+				<button type="button" class="btn btn-primary col-sm-3 login1" onclick="location.href='/login'">登录</button>
+			<%}%>
+			
+		</div>
+	</body>
+
+</html>

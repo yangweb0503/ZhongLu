@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html{
+	height: 100%;
+}
+body{
+	background: url(../images/bg1.gif) no-repeat center/cover;
+}
+#register{
+	width: 400px;
+	position: absolute;
+	left: 100px;
+	top: 250px;
+	background:rgba(100,100,100,.3);
+	padding: 20px;
+	border-radius: 10px;
+}
+label{
+	color: #fff;
+}

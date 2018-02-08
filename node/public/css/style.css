@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* 你自己的样式 */
+section{
+	background:url(../images/bg7.jpg) no-repeat center/cover;
+}
+.homeContent{
+	padding: 0 15px;
+}
+.homeContent table tr th,.homeContent table tr td{
+	border-color: #000;
+}
